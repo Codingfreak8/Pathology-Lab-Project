@@ -1,0 +1,17 @@
+               HERE IS THE LIST OF TESTS THAT WILL BE REQUIRED...
+
+ 1. THICK AND THIN BLOOD SMEARS==>  
+                 Diagnosis of malaria involves performing blood smears.These 
+                 tests are currently the "gold standard" for malaria detection
+                 and identification.
+
+ 2. RAPID DIAGNOSTIC TEST==> 
+                 These tests detect malaria antigens in a sample of a person's
+                 blood and indicate a psitive result by a colour change on the 
+                 testing strip.
+
+ 3. MOLECULAR TESTS==>  
+                 This test can  also be used to confirm the diagnosis in 
+                 laboratories. It is used to determine the plasmodium species
+                 in the blood sample.
+                           

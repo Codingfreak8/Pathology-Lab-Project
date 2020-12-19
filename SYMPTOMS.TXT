@@ -1,0 +1,16 @@
+               HERE IS THE LIST OF TESTS THAT WILL BE REQUIRED...
+
+ 1. KETONURIA==> Ketonuria happens when you have high ketone levels in your
+                 urine. This condition is found in individuals who have 
+                 diabetes.
+
+ 2. FASTING BLOOD SUGAR==> 
+                 Fasting blood sugar provides vital clues about how the body   
+                 is managing blood sugar levels.
+
+ 3. RBS==>       Random blood sugar test that is used to mesasure the amount
+                 of glucose in your blood without any fatsting conditions.
+
+ 4. OGTT==>      Oral glucose tolerance test measures how well your body's 
+                 cell are able to absorb glucose after you consume a specific
+                 amount of sugar.                        
